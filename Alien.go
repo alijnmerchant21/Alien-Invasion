@@ -17,7 +17,7 @@ import (
 // Dioikitís will only stop under three condition:
 // 1) All the cities are destroyed
 // 2) All the aliens are destroyed
-// 3) All the iteration of Alien are exhausted (10000)
+// 3) All the iteration are exhausted (10000)
 
 
 // TODO, change this back to 10000 once finished development
@@ -237,7 +237,7 @@ func Teleiotís(size int){
 
                                 teleiotísListReady[name] = true
                                 if (len(teleiotísListDone) + len(teleiotísListReady) == size) {
-                                        //log.Debug("Teleiotís: ALl aliens had made their move for the current round. Next round will start shortly...")
+                                        //log.Debug("Teleiotís: All aliens had made their move for the current round. Next round will start shortly...")
                                         teleiotísListReady = make(map[string]bool)
                                         toCommanderSignalChan <- "continue"
 
@@ -381,7 +381,7 @@ func init() {
 
 
 func main() {
-        //log.Debug("Failed to log to file, using default stderr")
+
         var numOfAliens int
         var mapFile string
         var logLevel string
@@ -416,8 +416,7 @@ func main() {
 
         initParas(numOfAliens, mapFile)
 
-        //log.Infoff("Hello there, there are total", len(cityLookup), " cities and ", numOfAliens, " aliens", ,numOfAliens)
-        log.Infof("Hello!, there are total of %d Cities and %d Aliens", len(cityLookup), numOfAliens)
+        log.Infof("Hello! there are total of %d Cities and %d Aliens", len(cityLookup), numOfAliens)        
 
         // to initialize the job
         go func(){toCommanderSignalChan <- "continue"}()
