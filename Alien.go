@@ -1,9 +1,11 @@
+//Coded by Ali. (https://github.com/alijnmerchant21)
+
 package main
 
 import (
         "strconv"
         "flag"
-        "tenderfun/tendermint/util"
+        "AlienInvasion/Alien/util"
         "strings"
         "os"
         log "github.com/sirupsen/logrus"
