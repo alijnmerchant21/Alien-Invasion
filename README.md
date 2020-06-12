@@ -45,5 +45,5 @@ Syssoreftís is the Knight of dead. He keeps Dioikitís informed - who is dead a
   
   
   **Output**
-  ![Output]
-  ![alt text] (https://github.com/alijnmerchant21/Alien-Invasion/blob/master/output.png)
+
+  ![output] (https://github.com/alijnmerchant21/Alien-Invasion/blob/master/output.png)
