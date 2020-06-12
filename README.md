@@ -39,3 +39,11 @@ Syssoreftís is the Knight of dead. He keeps Dioikitís informed - who is dead a
   10. Juktas
   11. Kos
   12. Lamia
+  
+  
+  
+  
+  
+  **Output**
+  ![Output]
+  (https://octodex.github.com/images/yaktocat.png)
