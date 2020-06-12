@@ -45,7 +45,7 @@ Syssoreftís is the Knight of dead. He keeps Dioikitís informed - who is dead a
   
   **Run**
   
-  '''go run Alien/Alien.go -numofaliens=14 -mapfile=Alien/test/testCase.csv'''
+  ```go run Alien/Alien.go -numofaliens=14 -mapfile=Alien/test/testCase.csv```
   
   **Output**
 
