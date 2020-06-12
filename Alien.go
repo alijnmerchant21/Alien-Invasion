@@ -17,7 +17,7 @@ import (
 // Dioikitís will only stop under three condition:
 // 1) All the cities are destroyed
 // 2) All the aliens are destroyed
-// 3) All the iteration are exhausted (10000)
+// 3) All the iteration of Alien are exhausted (10000)
 
 
 // TODO, change this back to 10000 once finished development
