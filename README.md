@@ -3,7 +3,7 @@ Mad​ ​aliens​ ​are​ ​about​ ​to​ ​invade​ ​the​ ​ear
 
 Find original problem statement here - 
 
-*Please Note: This project is designed exclusively for Tendermint. *
+_Please Note: This project is designed exclusively for Tendermint._
 
 **Story Line**:
 
