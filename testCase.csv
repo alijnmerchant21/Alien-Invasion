@@ -1,0 +1,12 @@
+Alalia south=Boura
+Boura north=Alalia south=Dyme
+Chios west=Dyme south=Lamia
+Dyme north=Boura south=Hyele west=Ereros east=Chios
+Ereros east=Dyme south=Gaza
+Opus east=Gaza
+Gaza north=Ereros west=Opus
+Hyele north=Dyme south=Ithaca east=Lamia
+Ithaca north=Hyele south=Juktas
+Juktas north=Ithaca south=Kos
+Kos north=Juktas
+Lamia north=Chios west=Hyele
