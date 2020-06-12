@@ -46,4 +46,4 @@ Syssoreftís is the Knight of dead. He keeps Dioikitís informed - who is dead a
   
   **Output**
 
-  ![output] (output.png)
+  ![output](output.png)
