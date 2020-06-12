@@ -22,7 +22,7 @@ Only the fierce survivor lives long to see the world. The dance of death does no
   
 PS:
 
-**Dioikitís is the Chancellor of Aliens givig them command from International Space Station.
+**Dioikitís is the Chancellor of Aliens giving them command from International Space Station.
 Syssoreftís is the Knight of dead. He keeps Dioikitís informed - who is dead and who is alive.**
 
 *List of Ancient Greek Cities invaded by Aliens -*
