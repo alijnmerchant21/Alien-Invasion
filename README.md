@@ -40,9 +40,12 @@ Syssoreftís is the Knight of dead. He keeps Dioikitís informed - who is dead a
   11. Kos
   12. Lamia
   
+  <br />
+  <br />
   
+  **Run**
   
-  
+  '''go run Alien/Alien.go -numofaliens=14 -mapfile=Alien/test/testCase.csv'''
   
   **Output**
 
