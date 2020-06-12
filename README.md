@@ -25,7 +25,7 @@ PS:
 **Dioikitís is the Chancellor of Aliens givig them command from International Space Station.
 Syssoreftís is the Knight of dead. He keeps Dioikitís informed - who is dead and who is alive.**
 
-_List of Ancient Greek Cities invaded by Aliens - _
+*List of Ancient Greek Cities invaded by Aliens -*
 
   1. Alalia
   2. Boura
